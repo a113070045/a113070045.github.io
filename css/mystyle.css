@@ -13,3 +13,11 @@ body {
 .my-email {
     color: #343a40;
 }
+
+.link-danger {
+    color: #343a40 !important;
+}
+
+.text-primary-emphasis {
+    color: #343a40 !important;
+}
