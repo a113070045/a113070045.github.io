@@ -6,3 +6,10 @@ body {
     background-color: #DCDBDA;
 }
 
+.text-primary {
+    color: #8599AB !important;
+}
+
+.my-email {
+    color: #343a40;
+}
