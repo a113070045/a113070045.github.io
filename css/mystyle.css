@@ -21,3 +21,8 @@ body {
 .text-primary-emphasis {
     color: #343a40 !important;
 }
+
+.link-danger:hover,
+.text-primary-emphasis:hover {
+    color: #8599AB !important;
+}
