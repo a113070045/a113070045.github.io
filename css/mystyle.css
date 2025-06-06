@@ -3,7 +3,7 @@ nav{
 }
 
 body {
-    background-color: #DCDBDA;
+    background-color: #D8D8D8;
 }
 
 .text-primary {
@@ -15,14 +15,14 @@ body {
 }
 
 .link-danger {
-    color: #343a40 !important;
+    color: #8599AB !important;
 }
 
 .text-primary-emphasis {
-    color: #343a40 !important;
+    color: #8599AB !important;
 }
 
 .link-danger:hover,
 .text-primary-emphasis:hover {
-    color: #8599AB !important;
+    color: #D6336C !important;
 }
