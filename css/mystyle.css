@@ -22,6 +22,13 @@ body {
     color: #8599AB !important;
 }
 
+.my-email:hover {
+    color: #8599AB;
+}
+
+.social-icon:hover {
+    background-color: #8599AB !important;
+}
 
 .link-danger:hover,
 .text-primary-emphasis:hover {
